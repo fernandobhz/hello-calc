@@ -1,4 +1,3 @@
 # Calculadora
 
-Este projeto é da aula de git.
-
+Este projeto é da aula de git!
