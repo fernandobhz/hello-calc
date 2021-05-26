@@ -11,3 +11,7 @@ function subtracao(a, b) {
 function divisao() {
   return a / b;
 }
+
+function multiplicar(a, b) {
+  return a * b;
+}
